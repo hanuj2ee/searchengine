@@ -7,6 +7,8 @@ searchengine
 	
 # Installation
 	Clone the repo
+	create test folder
+	put .scala file in test folder
 	Open command promt in repo
 	run runMain test.SimpleSearch data_folder_path command 
   Replace the data_folder_path by path of folder which has text file
